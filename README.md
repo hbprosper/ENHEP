@@ -28,7 +28,7 @@ A few of the statistics notebooks depend on ROOT (e.g., 6.14/06)
 | __stats__ | |
 | roofit.ipynb | basic introduction to PyROOT and RooFit |
 | Poisson.ipynb | Poisson central limits  |
-| Wilks.ipynb | Demonstration of Wilks' theorem |
+| Wilks.ipynb | demonstration of Wilks' theorem |
 | hzz4l.ipynb | signal count analysis of CMS Higgs to ZZ to 4-lepton results|
 | Type1afit.ipynb| fit to Type Ia supernovae data using RooFit|
 | __ml__
