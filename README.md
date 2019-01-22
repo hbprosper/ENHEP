@@ -33,4 +33,4 @@ A few of the statistics notebooks depend on ROOT (e.g., 6.14/06)
 | Type1afit.ipynb| fit to Type Ia supernovae data using RooFit|
 | __ml__
 | higgs\_vbf\_ggf\_bdt.ipynb | classification with boosted decision trees |
-| higgs\_vbf\_ggf\_dbb.ipynb | classification with neural networks |
+| higgs\_vbf\_ggf\_dnn.ipynb | classification with neural networks |
